@@ -1,5 +1,7 @@
+  
 .Basics{
-  background-image: url(https://gifimage.net/wp-content/uploads/2017/10/matrix-numbers-gif-7.gif);
+ 
+  background-image: url(https://media0.giphy.com/media/jaOXKCxtBPLieRLI0c/giphy.gif?cid=790b76118ef3c2e6225c090d81d4daab86ed6dbcd9069f93&rid=giphy.gif);
   color: white;
 }
 ol{
@@ -9,18 +11,24 @@ ol{
 }
 .edu{
   color: white;
-background-image: url(https://gifimage.net/wp-content/uploads/2017/10/matrix-numbers-gif-7.gif);
+background-image: url(https://media0.giphy.com/media/jaOXKCxtBPLieRLI0c/giphy.gif?cid=790b76118ef3c2e6225c090d81d4daab86ed6dbcd9069f93&rid=giphy.gif);
 }
 .xp{
    color: white;
-  background-image: url(https://gifimage.net/wp-content/uploads/2017/10/matrix-numbers-gif-7.gif);
+ 
 }
 .main{
   color: white;
-background-image: url(https://gifimage.net/wp-content/uploads/2017/10/matrix-numbers-gif-7.gif);
-background-repeat: no-repeat;
+background-image: url(https://media0.giphy.com/media/jaOXKCxtBPLieRLI0c/giphy.gif?cid=790b76118ef3c2e6225c090d81d4daab86ed6dbcd9069f93&rid=giphy.gif);
+
+
 }
 .CSTWork{
 color: white;
-background-image: url(https://gifimage.net/wp-content/uploads/2017/10/matrix-numbers-gif-7.gif);
+background-image: url(https://media0.giphy.com/media/jaOXKCxtBPLieRLI0c/giphy.gif?cid=790b76118ef3c2e6225c090d81d4daab86ed6dbcd9069f93&rid=giphy.gif)
+}
+.tc{
+  color: white;
+  background-image: url(https://media0.giphy.com/media/jaOXKCxtBPLieRLI0c/giphy.gif?cid=790b76118ef3c2e6225c090d81d4daab86ed6dbcd9069f93&rid=giphy.gif)
+
 }
